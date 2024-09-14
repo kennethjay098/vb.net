@@ -1,0 +1,36 @@
+D:\visual studio my saved project\login\obj\Debug\login.vbproj.AssemblyReference.cache
+D:\visual studio my saved project\login\obj\Debug\login.Form1.resources
+D:\visual studio my saved project\login\obj\Debug\login.Resources.resources
+D:\visual studio my saved project\login\obj\Debug\login.vbproj.GenerateResource.cache
+D:\visual studio my saved project\login\obj\Debug\login.vbproj.CoreCompileInputs.cache
+D:\visual studio my saved project\login\bin\Debug\login.exe.config
+D:\visual studio my saved project\login\bin\Debug\login.exe
+D:\visual studio my saved project\login\bin\Debug\login.pdb
+D:\visual studio my saved project\login\bin\Debug\login.xml
+D:\visual studio my saved project\login\obj\Debug\login.exe
+D:\visual studio my saved project\login\obj\Debug\login.xml
+D:\visual studio my saved project\login\obj\Debug\login.pdb
+D:\visual studio my saved project\login\obj\Debug\login.Form2.resources
+D:\visual studio my saved project\login\obj\Debug\login.Discount.resources
+D:\visual studio my saved project\login\obj\Debug\login.Pos.resources
+D:\visual studio my saved project\login\obj\Debug\login.gradingsystem.resources
+D:\visual studio my saved project\login\obj\Debug\login.view1.resources
+D:\visual studio my saved project\login\obj\Debug\login.view2.resources
+D:\login cs4115\emsandadrian\bin\Debug\login.exe.config
+D:\login cs4115\emsandadrian\bin\Debug\login.exe
+D:\login cs4115\emsandadrian\bin\Debug\login.pdb
+D:\login cs4115\emsandadrian\bin\Debug\login.xml
+D:\login cs4115\emsandadrian\obj\Debug\login.vbproj.AssemblyReference.cache
+D:\login cs4115\emsandadrian\obj\Debug\login.Discount.resources
+D:\login cs4115\emsandadrian\obj\Debug\login.gradingsystem.resources
+D:\login cs4115\emsandadrian\obj\Debug\login.Pos.resources
+D:\login cs4115\emsandadrian\obj\Debug\login.Form1.resources
+D:\login cs4115\emsandadrian\obj\Debug\login.Form2.resources
+D:\login cs4115\emsandadrian\obj\Debug\login.Resources.resources
+D:\login cs4115\emsandadrian\obj\Debug\login.view1.resources
+D:\login cs4115\emsandadrian\obj\Debug\login.view2.resources
+D:\login cs4115\emsandadrian\obj\Debug\login.vbproj.GenerateResource.cache
+D:\login cs4115\emsandadrian\obj\Debug\login.vbproj.CoreCompileInputs.cache
+D:\login cs4115\emsandadrian\obj\Debug\login.exe
+D:\login cs4115\emsandadrian\obj\Debug\login.xml
+D:\login cs4115\emsandadrian\obj\Debug\login.pdb
